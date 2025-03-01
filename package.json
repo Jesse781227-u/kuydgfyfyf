@@ -1,0 +1,12 @@
+{
+  "name": "ethereum-balance-bot",
+  "version": "1.0.0",
+  "description": "A Node.js bot to monitor Ethereum balances and send transactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
